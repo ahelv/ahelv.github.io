@@ -17,13 +17,14 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Home
+title      : Annika Helverson
 email      : annikahelverson@gmail.com #this is also the email contact forms will go to
 description: "Hello! I am Annika Helverson, a PhD Biostatistician with interests in 
   predictive modeling, Bayesian statistics, machine learning, and statistical
   software development. I enjoy interdisciplinary collaboartions from medical 
   and public health research to sports statistics. "
 author     : Annika Helverson
+home       : Home
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
