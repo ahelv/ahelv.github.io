@@ -50,19 +50,19 @@ en: &DEFAULT_EN
         image: assets/img/timeline/grinnell.jpg
         alt:
       - title: "Post-Baccalaureate Research"
-        year: "June 2018"
+        year: "June 2018-July 2019"
         desc: "After graduating from Grinnell, I took a position in Dr. Robert Cornell's Anatomy and Cell Biology research laboratory at University of Iowa Carver College of Medicine doing bioinformatics and biostatistics for a host of genetics projects."
         image: assets/img/timeline/zebrafish.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Biostatistics MS Program"
+        year: "August 2019-May 2021"
+        desc: "I started a 2-year program at The University of Iowa College of Public Health to earn an MS in Biostatistics."
+        image: assets/img/timeline/uiowa.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Biostatistics PhD Program"
+        year: "August 2021-May 2024"
+        desc: "After completing the MS program, I decided to stick around for more and do a PhD"
+        image: assets/img/timeline/uiowa.jpg
         alt:
         # you can enforce the alignment
         align: right
